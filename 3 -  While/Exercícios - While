@@ -1,0 +1,73 @@
+
+
+Exercício 1
+Faça um programa que peça ao usuário um número e imprima todos os números de um até o número dado.
+
+Exemplo:
+
+digite: 5
+
+imprime: 1 2 3 4 5
+  
+===============================================================================
+
+Exercício 2
+Peça ao usuário para digitar um número e imprima o fatorial de n.
+
+===============================================================================
+
+Exercício 3
+Peça ao usuário para digitar um número N e some todos os números de 1 a N utilizando o laço de repetição while.
+
+===============================================================================
+
+Exercício 4
+Faça um programa que imprima a tabuada do 9 (de 9*1 a 9*10) usando loops.
+
+===============================================================================
+
+Exercício 5
+Faça um programa, usando loops, que peça para um usuário digitar um número e que só finaliza quando o usuário digitar 0.
+Ao final imprima a soma de todos os números digitados.
+
+===============================================================================
+
+Exercício 6
+Faça um programa que sorteia um número N e peça para o usuário adivinhar o número sorteado.
+A cada resposta errada, o seu programa deve imprimir um aviso dizendo que a resposta está errada
+e pedir novamente uma resposta ao usuário.
+
+Para a realização desse exercício, utilize alguma função da biblioteca random (e.g. randint()).
+  
+===============================================================================
+
+Exercício 7
+Faça um programa que peça para o usuário digitar a idade, o salário e o sexo de uma pessoa
+até que as entradas digitadas sejam válidas.
+
+a. Idade: entre 0 e 150;
+b. Salário: maior que 0;
+c. Sexo: M, F ou Outro.
+
+===============================================================================
+    
+Exercício 8
+
+Desafio! - Calcule a soma de até mil termos da série 1 + 1/2 + 1/4 + 1/8 + 1/16 + ...
+
+Dica: Use três variáveis:
+
+• um contador, que começa em zero;
+• uma variável para a soma de todos os termos, que também começa em zero;
+• uma variável para cada termo, que começa em 1 e a cada loop é dividida por 2.
+
+A repetição da soma de mil termos pode ser feita com a função while contador < 1000.
+
+termos = 1
+soma_termos = 0
+contador = 0
+total = termos
+
+===============================================================================
+
+

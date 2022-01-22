@@ -1,0 +1,68 @@
+
+# Exercício 1
+- Faça um programa que peça a idade do usuário e imprima se ele é maior ou menor de 18 anos.
+
+====================================================================================
+
+# Exercício 2
+- Faça um programa que peça um número e mostre se ele é positivo ou negativo.
+
+====================================================================================    
+
+# Exercício 3
+- Faça um programa que peça dois números e mostre o maior deles.
+
+====================================================================================    
+    
+# Exercicio 4
+- Faça um programa que leia a validade das informações:
+	a. Idade: entre 0 e 150;
+	b. Salário: maior que 0;
+	c. Sexo: M, F ou Outro;
+
+- O programa deve imprimir uma mensagem de erro para cada informação inválida.
+  
+====================================================================================
+
+# Exercício 5
+- Escreva um programa que peça a nota de 3 provas de um aluno e verifique se ele passou ou não de ano.
+
+Obs.: O aluno irá passar de ano se sua média for maior que 6.
+
+====================================================================================       
+
+# Exercício 6
+- Vamos fazer um programa para verificar quem é o assassino de um crime.
+- Para descobrir o assassino, a polícia faz um pequeno questionário com 5 perguntas onde a resposta só pode ser sim ou não:
+
+a. Mora perto da vítima?
+b. Já trabalhou com a vítima?
+c. Telefonou para a vítima?
+d. Esteve no local do crime?
+e. Devia para a vítima?
+
+- Cada resposta sim dá um ponto para o suspeito. A polícia considera que os suspeitos com 5 pontos são os assassinos, com 4 a 3 pontos são cúmplices e 2 pontos são apenas suspeitos, necessitando outras investigações.
+- Valores iguais ou abaixo de 1 são liberados.
+
+====================================================================================
+
+# Exercício 7
+
+- Desafio 3 - Um hospital quer fazer o diagnóstico de gripe ou dengue a partir de um questionário de sintomas, tendo as perguntas abaixo, faça um programa que faça o diagnóstico deste hospital:
+
+a. Sente dor no corpo?
+b. Você tem febre?
+c. Você tem tosse?
+d. Está com congestão nasal?
+e. Tem manchas pelo corpo?
+
+Para o diagnóstico ele tem a seguinte tabela:
+
+ A	    B	C	D	E	Resultado
+ Sim	Sim	Não	Não	Sim	Dengue
+ Sim	Sim	Sim	Sim	Não	Gripe
+ Não	Sim	Sim	Sim	Não	Gripe
+ Sim	Não	Não	Não	Não	Sem doenças
+ Não	Não	Não	Não	Não	Sem doenças
+
+
