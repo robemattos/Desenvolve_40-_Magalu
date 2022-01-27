@@ -66,4 +66,56 @@ Faça um programa que peça as 4 notas bimestrais e mostre a média aritmética 
 
 =========================================================================
 
+Exercício 11
+Crie uma lista de 10 números e imprima:
+
+a. uma lista com os 4 primeiros números;
+b. uma lista com os 5 últimos números;
+c. uma lista contendo apenas os elementos das posições pares;
+d. uma lista contendo apenas os elementos das posições ímpares;
+e. a lista inversa da lista sorteada (isto é, uma lista que começa com o último
+   elemento da lista sorteada e termina com o primeiro);
+f. uma lista inversa dos 5 primeiros números;
+g. uma lista inversa dos 5 últimos números.
+
+=========================================================================
+
+Exercício 12
+Faça um programa que sorteia 10 números entre 0 e 100 e conte quantos números
+sorteados são maiores que 50.
+
+Obs.: Precisa usar a biblioteca random
+
+=========================================================================
+
+#Exercício 13
+
+# Faça um programa que sorteie 10 números entre 0 e 100 e imprima:
+# a. o maior número sorteado;
+# b. o menor número sorteado;
+# c. a média dos números sorteados;
+# d. a soma dos números sorteados.
+# Obs.: Precisa usar a biblioteca random
+
+=========================================================================
+
+# Exercício 14
+
+# Super Desafio - Faça um programa que pede para o usuário digitar o CPF e verifica
+# se ele é válido. Para isso, primeiramente o programa deve multiplicar cada um dos
+# 9 primeiros dígitos do CPF pelos números de 10 a 2 e somar todas as respostas.
+# O resultado deve ser multiplicado por 10 e dividido por 11.
+# O resto dessa divisão deve ser igual ao primeiro dígito verificador (10º dígito).
+# Em seguida, o programa deve multiplicar cada um dos 10 primeiros dígitos do CPF
+# pelos números de 11 a 2 e repetir o procedimento anterior para verificar o segundo
+# dígito verificador.
+
+# Exemplo:
+# Se o CPF for 286.255.878-87 o programa deve fazer primeiro:
+# x = (2*10 + 8*9 + 6*8 + 2*7 + 5*6 + 5*5 + 8*4 + 7*3 + 8*2)
+# Em seguida, o programa deve testar se x*10%11 == 8 (o décimo número do CPF). Se sim,
+# o programa deve calcular:
+# x = (2*11 + 8*10 + 6*9 + 2*8 + 5*7 + 5*6 + 8*5 + 7*4 + 8*3 + 8*2)
+# e verificar se x*10%11 == 7 (o décimo primeiro número do CPF).
+
 

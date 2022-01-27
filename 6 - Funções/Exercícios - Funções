@@ -1,0 +1,48 @@
+
+Exercício 1
+Faça uma função que recebe um número e imprime seu dobro.
+
+
+===================================================================
+
+Exercício 2
+Faça uma função que recebe o valor do raio de um círculo e retorna o valor do comprimento
+de sua circunferência: C = 2*pi*r.
+
+===================================================================
+
+Exercício 3
+Faça uma função para cada operação matemática básica (soma, subtração, multiplicação e divisão). 
+As funções devem receber dois números e retornar o resultado da operação.
+
+===================================================================
+
+Exercício 4
+Faça uma função que recebe um nome e imprime “olá, [nome]”.
+
+===================================================================
+
+Exercício 5
+Faça uma função que recebe um nome e um horário e imprime “Bom dia, [nome]”, caso seja antes de 12h, “Boa Tarde, [nome]”, caso seja entre 12h e 18h e #“Boa noite, [nome]” se for após às 18h.
+
+===================================================================
+
+Exercício 7
+Faça uma função que sorteia 10 números aleatórios entre 0 e 100 e retorna o maior entre eles.
+
+===================================================================
+
+Exercício 12
+Faça uma função que receba duas listas e retorne o produto item a item dessas listas.
+
+Exemplo: Se a função receber as listas [1,4,3] e [3,5,1], então a função deve retornar
+[1x3, 4x5, 3x1] = [3, 20, 3].
+
+===================================================================
+
+Exercício 14
+Faça uma função que recebe uma lista de números e retorna a média 	aritmética dos elementos dessa lista.
+
+===================================================================
+
+
